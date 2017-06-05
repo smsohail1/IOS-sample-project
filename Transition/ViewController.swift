@@ -22,7 +22,7 @@ class ViewController: UIViewController {
 
 
     @IBAction func btn(_ sender: UIButton) {
-        print("fdfdffdfd");
+        print("fdfdffdfd123");
     }
 }
 
